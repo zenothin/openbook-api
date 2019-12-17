@@ -26,10 +26,10 @@ We also aim to make the process of enforcing these guidelines transparent and op
 ## 🌎 Embrace diversity
 
 In a boring world, we would all look, think and act the same way.
-Luckily, we all look, think and act differently and the world isn’t boring.
+Luckily, we all look, think and act differently, and the world isn’t boring.
  
-Such diversity is one of the greatest strengths of our society; it allows us to collectively think critically about stuff, make better decisions by having a wider range of experiences, and even unlocks previously unattainable innovation.
-Because we embrace diversity we have a list of _**13 protected differences**_ we hope members of Okuna at best embrace and at least, tolerate.
+Such diversity is one of the greatest strengths of our society; collectively, it allows us to think critically about stuff, make better decisions by having a wider range of experiences, and even unlocks previously unattainable innovation.
+Because we embrace diversity we have a list of _**13 protected differences**_ we hope members of Okuna will, at best, embrace and, at least, tolerate.
 
 * Age
 * Belief [*](#on-harmful-beliefs)
@@ -45,7 +45,7 @@ Because we embrace diversity we have a list of _**13 protected differences**_ we
 * Sex
 * Sexual orientation
 
-Ideologies that by nature are not embracing, or tolerant of, these differences such as nazism or neo-nazism have no place—and never will have—at Okuna. This includes sharing associated symbols or imagery.
+Ideologies that by nature are not embracing, or tolerant of, these differences such as nazism or neo-nazism, have no place—and never will have—at Okuna. This includes sharing associated symbols or imagery.
 
 ## 🏷 Drop the labels and stereotypes
 
@@ -59,9 +59,9 @@ Show friendliness, concern and respect for others in manners, speech and behavio
 
 Here are some practical tips on this.
 
-Regardless the situation…
+Regardless of the situation…
 
-* **Acknowledge the person at the other end of the screen.** Imagine him/her/them looking at your comment/reaction while sitting down for dinner at the end of a hard day of work.
+* **Acknowledge the person at the other end of the screen.** Imagine him/her/them looking at your comment/reaction while sitting down for dinner at the end of a hard day's work.
 * **Stay calm.** Being angry or upset hinders our ability to think clearly, leading to misunderstanding or conflict.
 
 If you’re reading something that makes you feel uncomfortable…
@@ -72,10 +72,10 @@ If you’re reading something that makes you feel uncomfortable…
 
 When replying to someone’s comment or post…
 
-* **Keep these guidelines in mind.** At minimum the in short section.
+* **Keep these guidelines in mind.** At minimum, the short section above.
 * **Did you read that right?** Give it another look.
 * **Are you in doubt about what it means?** Kindly ask the person for more information.
-* **Find something in common and share it if possible.** Finding something in common between you and the original poster makes sure both of you see a human on the other side. This facilitates empathy and compassion.
+* **Find something in common, and share it if possible.** Finding something in common between you and the original poster makes sure both of you see a human on the other side. This facilitates empathy and compassion.
 
 When the discussion is going nowhere…
 
@@ -86,11 +86,11 @@ When the discussion is going nowhere…
 
 If the discussion becomes aggressive…
 
-* **Stop immediately and report.** Aggression only leads to more aggression. 
+* **Stop immediately and report it.** Aggression only leads to more aggression. 
 
 ## 🕴 Respect people’s privacy
 
-As a privacy-first social network, we take privacy seriously. Please respect people’s privacy.
+Please join in Okuna's own efforts with respecting people’s privacy.
 
 Do not share people's
 
@@ -103,11 +103,11 @@ Do not share people's
 
 We want Okuna to be a welcoming and friendly place for everyone to surf with peace of mind.
 
-Speech containing demeaning, denigrating, humiliating or brutalising comments—whether personal or in general—have no place on Okuna.
+Speech containing demeaning, denigrating, humiliating or brutalising comments—whether personal or general—have no place on Okuna.
 
 ## 😬 Avoid spamming
 
-Following, connecting and commenting with the purposes of advertising, phishing and spreading malware are all spam-like activity. Avoid spam activity.
+Following, connecting and commenting with the purposes of advertising, phishing or spreading malware are all spam-like activity. Avoid spam activity.
 
 
 ## 🥳 Be you
@@ -160,22 +160,22 @@ Making Okuna a healthy and welcoming community for everyone is a shared responsi
 Points borrowed from the [Norwegian Data Protection Authority](https://www.datatilsynet.no/personvern-pa-ulike-omrader/internett-og-apper/bilder-pa-nett/bilder-av-barn/).
 
 #### On harmful beliefs
-Some beliefs can cause real life harm. For example, the now unfortunately wide-spread belief that vaccination causes autism [(it doesn’t as overwhelmingly proven by numeours and independent studies)](https://www.healthychildren.org/English/safety-prevention/immunizations/Pages/Vaccine-Studies-Examine-the-Evidence.aspx) [resulting](https://jamanetwork.com/journals/jama/fullarticle/2656158?appId=scweb) in the [resurgence of measles outbreaks](https://www.unicef.org/press-releases/over-20-million-children-worldwide-missed-out-measles-vaccine-annually-past-8-years).
-Beliefs like this example are exempted from the protected status and we will do our best to prevent their spreading on the platform.
+Some beliefs can cause real-life harm. For example, the now unfortunately widespread belief that vaccination causes autism [(it doesn’t, as overwhelmingly proven by numerous and independent studies)](https://www.healthychildren.org/English/safety-prevention/immunizations/Pages/Vaccine-Studies-Examine-the-Evidence.aspx) [resulting](https://jamanetwork.com/journals/jama/fullarticle/2656158?appId=scweb) in the [resurgence of measles outbreaks](https://www.unicef.org/press-releases/over-20-million-children-worldwide-missed-out-measles-vaccine-annually-past-8-years).
+Beliefs like this example are exempted from the protected status, and we will do our best to prevent their spreading on the platform.
 
 We will also determine a belief to be harmful—and therefore not protected—if:
 
 * its harm has been widely and independently scientifically proven (such as in the anti-vaccination case cited)
 * it results in the direct physical harm of people (such as in the claim a soap pod was edible resulting in the deaths of seven people and over seven thousand cases of poisoning)
-* it's both proselytised widely on the platform and also exclusionary of other protected statuses
+* it's both proselytised widely on the platform and also exclusionary of one or several protected statuses
  
 As with all other guidelines, we aim to make the process transparent and always open to debate.
 
 #### On non-sexual nudity
 
-We might allow this in the future, however not before we have solid content reporting and filtering mechanisms in place
+We might allow this in the future, but not before we have solid content reporting and filtering mechanisms in place
 
-If it's not on a painting or sculpture, please abstain yourself from sharing any kind of nudity on the platform.
+If it's not on a painting or sculpture, please abstain from sharing any kind of nudity on the platform.
 
 Reports on this subject will most likely require personal judgement from the community moderators.
 
@@ -183,9 +183,9 @@ Reports on this subject will most likely require personal judgement from the com
 
 ### 👯‍♀️ Contributors
 
-Special thanks to [Trevor Barton (@trevor)](https://trevorbarton.co.uk/) for creating the first ever draft these guidelines were built upon and for his consequent contributions.
+Special thanks to [Trevor Barton (@trevor)](https://trevorbarton.co.uk/) for creating the first ever draft these guidelines were built upon, and for his consequent contributions.
 
-Thanks to the volunteers who with their comments, suggestions and proof-reading helped make this document possible.
+Thanks to the volunteers who, with their comments, suggestions and proofreading helped make this document possible.
 
 * Benny | @benny
 * Trud Antzée | @antzee
